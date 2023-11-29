@@ -1,2 +1,2 @@
-# Link
-AI ML DM
+# AI ML DM
+assignments of the lesson
